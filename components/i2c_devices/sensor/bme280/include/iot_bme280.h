@@ -531,7 +531,7 @@ public:
     float temperature();
 
     /**
-     * @brief  Returns the temperature from the sensor
+     * @brief  Returns the pressure from the sensor
      *
      * @param   dev object handle of bme280
      *
